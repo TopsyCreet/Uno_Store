@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-mtn3-0.1";
 const contentToCache = [
     "Build/Xc_Store_Final1.loader.js",
-    "Build/Xc_Store_Final1.framework.js",
-    "Build/Xc_Store_Final1.data",
-    "Build/Xc_Store_Final1.wasm",
+    "Build/Xc_Store_Final1.framework.js.br",
+    "Build/Xc_Store_Final1.data.br",
+    "Build/Xc_Store_Final1.wasm.br",
     "TemplateData/style.css"
 
 ];
